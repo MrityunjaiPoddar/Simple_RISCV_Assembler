@@ -202,7 +202,6 @@ Assembler.py
 
 ---
 
-# Contributors
-
-- Mohit Gupta  
-- Mrityunjai Poddar
+## Contributors
+- [Mohit Gupta](https://github.com/Mohit14032007)
+- [Mrityunjai Poddar](https://github.com/MrityunjaiPoddar)
